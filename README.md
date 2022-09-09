@@ -25,7 +25,8 @@ Current options include: chromatic aberration, camera shake, bloom and radial bl
 with a debug struct for you to test out your impacts; though as mentioned above they only work during play.
 
 # Extras
-The materials folder includes a master decal material to use on meshes as well as a master caustics light function.
+The materials folder includes a master decal material to use on meshes as well as a master caustics light function. The Epic Games folder contains local mist and
+light beams made by the epic team.
 
 
  
